@@ -15,14 +15,6 @@ Actually quite a lot, but the basic things we need to know to learn the hook are
 
 > File : `src/ExampleForm.js`
 
-Create class component :
-
-```javascript
-class ExampleForm extends Component {
-    ...
-}
-```
-
 Inside class component create constructor and init state :
 
 ```javascript
